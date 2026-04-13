@@ -30,12 +30,12 @@ nav {
 }
 
 nav a {
-    color: white;
-    margin: 15px;
+    color: green;
+    margin: 50px;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: italic;
 }
 
 nav a:hover {
-    color: yellow;
+    color: green;
 }
